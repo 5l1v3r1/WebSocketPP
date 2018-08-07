@@ -1,5 +1,3 @@
-HEAD
-
 0.8.1 - 2018-07-16
 Note: This release does not change library behavior. It only corrects issues
 in the installer and test system.
